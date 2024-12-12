@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Full-Stack Web-Dev Bootcamp **
 
-- 💬 Ask me about: **Html||Css||JavaScript||Bootsrap||React**
+- 💬 Ask me about: **HTML5/CSS3 || JavaScript || JAVA || React Js || DSA **
 
 - 📫 How to reach me: **mdrazikkhan@gmail.com**
 
