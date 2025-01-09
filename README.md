@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **HTML5/CSS3 || JavaScript || JAVA || React Js || DSA **
 
-- 📫 How to reach me: **mdrazikkhan@gmail.com**
+- 📫 How to reach me: **mdrazikkhan779@gmail.com**
 
 - ⚡ **“Happy. Unbothered. Disciplined. Glowing.”**
 
