@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning: **Full-Stack Web-Dev Bootcamp **
+- 🌱 I’m currently learning: **Back-end Development **
 
-- 💬 Ask me about: **HTML5/CSS3 || JavaScript || JAVA || React Js || DSA **
+- 💬 Ask me about: **HTML5/CSS3 || JavaScript || JAVA || React Js || Next js || TypeScript || Tailwind Css **
 
 - 📫 How to reach me: **mdrazikkhan779@gmail.com**
 
