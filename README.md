@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Razik Khan</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Full Stack developer from India</h3>
 
 
 ]
@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning: **Back-end Development **
+- 🌱 I’m currently Exploring Data Science  **
 
-- 💬 Ask me about: **HTML5/CSS3 || JavaScript || JAVA || React Js || Next js || TypeScript || Tailwind Css **
+- 💬 Ask me about: ** **
 
 - 📫 How to reach me: **mdrazikkhan779@gmail.com**
 
@@ -23,7 +23,6 @@
 
 <a href="https://twitter.com/md_razik_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_razik_khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-razik-khan-290506266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-razik-khan-290506266" height="30" width="40" /></a>
-<a href="https://instagram.com/r_a_a_z_i_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_a_z_i_k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/razik_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razik_khan" height="30" width="40" /></a>
 </p>
 
