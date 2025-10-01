@@ -97,9 +97,7 @@
 
 
 
-- 🌱 I’m currently Exploring Data Science  **
 
-- 💬 Ask me about: ** **
 
 - 📫 How to reach me: **mdrazikkhan779@gmail.com**
 
@@ -107,14 +105,24 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://twitter.com/md_razik_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_razik_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-razik-khan-290506266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-razik-khan-290506266" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/razik_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razik_khan" height="30" width="40" /></a>
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
 
   
 
