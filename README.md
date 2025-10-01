@@ -99,7 +99,7 @@
 
 
 
-- 📫 How to reach me: **mdrazikkhan779@gmail.com**
+<p>- 📫 How to reach me: **mdrazikkhan779@gmail.com**</p>
 
 - ⚡ **“Happy. Unbothered. Disciplined. Glowing.”**
 
@@ -124,7 +124,7 @@
   </a>
 </p>
 <hr/>
-- ⚡ **“Happy. Unbothered. Disciplined. Glowing.”**
+<p>⚡**“Happy. Unbothered. Disciplined. Glowing.”**</p>
 
 
  
