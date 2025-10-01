@@ -1,11 +1,11 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="start">Hi 👋, I'm Razik Khan</h1>
 <h3 align="start">Full Stack developer from India</h3>
-<p align="start">💻 Professional Software Developer | 🚀 Skilled in modern web technologies | ⚡ Passionate about building scalable, high-performance applications | 🔧 Applying industry-best practices to deliver clean, efficient, and impactful solutions</p>
+<p align="start">💻 Professional Software Developer |  Skilled in modern web technologies |  Passionate about building scalable, high-performance applications |  Applying industry-best practices to deliver clean, efficient, and impactful solutions 🚀</p>
 
 <h1 align="start">About Me</h1>
-<li>	•	🔨 Currently working on full-stack web applications and cloud-native infrastructure solutions </li>
-<li>	•	📚 Continuously expanding expertise in backend development, AI, and data science</li>
+<li>	🔨 Currently working on full-stack web applications and cloud-native infrastructure solutions </li>
+<li>	📚 Continuously expanding expertise in backend development, AI, and data science</li>
 <li>	🤝 Open to collaborating on open-source projects and innovative web solutions</li>
 <li>⚡ Passionate about solving complex algorithmic challenges and optimizing system performance</li>
 
