@@ -99,10 +99,6 @@
 
 
 
-<p>- 📫 How to reach me: **mdrazikkhan779@gmail.com**</p>
-
-- ⚡ **“Happy. Unbothered. Disciplined. Glowing.”**
-
 
 
 <h3 align="start">🤝 Connect with me</h3>
@@ -121,7 +117,7 @@
   </a>
   
 </p>
-<hr/>
+
 <p>🌟 “Code is not just instructions to a computer — it’s creativity, logic, and passion woven into solutions that shape the future.”</p>
 
 
