@@ -123,12 +123,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+- ⚡ **“Happy. Unbothered. Disciplined. Glowing.”**
+- 📫 How to reach me: **mdrazikkhan779@gmail.com**
 
-  
-
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raazikkhan&show_icons=true&locale=en&layout=compact" alt="raazikkhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raazikkhan&show_icons=true&locale=en" alt="raazikkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raazikkhan&" alt="raazikkhan" /></p>
+ 
