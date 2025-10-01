@@ -107,25 +107,23 @@
 
 <h3 align="start">🤝 Connect with me</h3>
 <p align="start">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/md-razik-khan-290506266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+  <a href="mailto:mdrazikkhan108.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
 </p>
 <hr/>
 <p>🌟 “Code is not just instructions to a computer — it’s creativity, logic, and passion woven into solutions that shape the future.”</p>
 
-<p>📫 How to reach me: **mdrazikkhan779@gmail.com**</p>
+
 
  
