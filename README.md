@@ -4,7 +4,10 @@
 <p align="start">💻 Professional Software Developer | 🚀 Skilled in modern web technologies | ⚡ Passionate about building scalable, high-performance applications | 🔧 Applying industry-best practices to deliver clean, efficient, and impactful solutions</p>
 
 <h1 align="start">About Me</h1>
-
+<li>Currenlty working on full-stack web applications and cloud infrastructure solutions </li>
+<li>Cuntinuosly learning d</li>
+<li>Looking for collaborate on open source projects and innovative web solutions</li>
+<li>Passionate about solving algorithmic challenges and optimizing system performance</li>
 
 
 
