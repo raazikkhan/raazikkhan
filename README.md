@@ -1,4 +1,5 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnjaliavv51%2FAnjaliavv51&psig=AOvVaw0cLRfISeQvBAn1HxfaksDF&ust=1759408078698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj5rJOAg5ADFQAAAAAdAAAAABAL)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <h1 align="start">Md Razik Khan</h1>
 <h2 align="start">Full Stack developer from India</h2>
 <p align="start">💻 Professional Software Developer |  Skilled in modern web technologies |  Passionate about building scalable, high-performance applications |  Applying industry-best practices to deliver clean, efficient, and impactful solutions 🚀</p>
